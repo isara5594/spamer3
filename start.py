@@ -11,7 +11,7 @@ bot = TelegramBot(
 bot.scraping_grupos()
 
 # ID del grupo de origen
-grupo_origen_id = -4598989859 #Aqui pones su chat id del grupo donde esta tus mensajes a enviar
+grupo_origen_id = -4680633557 #Aqui pones su chat id del grupo donde esta tus mensajes a enviar
 
 # Listado de Opciones del BOT. Añadir aquí las opciones futuras.
 listado_opciones = {
